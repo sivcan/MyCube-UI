@@ -1,0 +1,14 @@
+Login Screen : 35 euros
+SignUp Screen : 35 eurost
+Weekly Feed : 40 euros
+Places View Screen : 30 euros
+Club Detail Screen: 
+Table Selection Screen: 
+Item Selector Screen : 
+Table Total Screen : 
+Wishes Screen : 
+Time Picker Screen : 
+Payment Screen : 
+Payment Success Screen :
+Cube Menu Screen :  
+App Icon : 
